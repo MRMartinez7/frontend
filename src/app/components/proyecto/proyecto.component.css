@@ -1,0 +1,15 @@
+div{
+    text-align: center;
+    color: white;
+}
+.contenedor{    
+    margin-top: 50px;
+}
+p{
+    padding: 20px 20px;
+     
+}
+img{
+    width: 400px;
+    height: auto;
+}

@@ -1,0 +1,13 @@
+.row{
+    color: white;
+}
+.circulo{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    color: white;
+}
+
